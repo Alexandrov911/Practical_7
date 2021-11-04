@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\bin\Debug\Практическая №7, второй курс.exe.config
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\bin\Debug\Практическая №7, второй курс.exe
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\bin\Debug\Практическая №7, второй курс.pdb
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\obj\Debug\Практическая №7, второй курс.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\obj\Debug\Практическая__7__второй_курс.Form1.resources
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\obj\Debug\Практическая__7__второй_курс.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\obj\Debug\Практическая №7, второй курс.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\obj\Debug\Практическая №7, второй курс.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\obj\Debug\Практическая №7, второй курс.exe
+C:\Users\Lenovo\source\repos\Практическая №7, второй курс\Практическая №7, второй курс\obj\Debug\Практическая №7, второй курс.pdb
